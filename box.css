@@ -1,0 +1,15 @@
+div {
+  background-color: rgb(168, 162, 162);
+  width: 50px;
+
+  /* Padding background-color */
+  padding: 75px;
+
+  /* Border */
+  border-width: 5px;
+  border-color: red;
+  border-style: dotted;
+
+  /* Margin  */
+  margin: 125px;
+}
